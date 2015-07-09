@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/thinkbee/Works/AndroidStudioProjects/ActionBarPager/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Myr</string>
+    <string name="btn_page1">페이지1</string>
+    <string name="btn_page2">페이지2</string>
+    <string name="btn_page3">페이지3</string>
+    <string name="dokdo_image_message">이미지는 독도연구소에서 가져와습니다</string>
+    <string name="hello">Hello World, TestViewPagerActivity!</string>
+</resources>
